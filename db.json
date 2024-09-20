@@ -1,0 +1,106 @@
+{
+    "hull": [
+        {
+            "name": "Simple hull",
+            "description": "This is a simple hull",
+            "img": "",
+            "weight": 10,
+            "price": 1000.0
+        },
+        {
+            "name": "Advanced hull",
+            "description": "This is an advanced hull",
+            "img": "",
+            "weight": 20,
+            "price": 2000.0
+        }
+    ],
+    "engine": [
+        {
+            "name": "Rocket engine",
+            "description": "This is a rocket engine",
+            "img": "",
+            "power": 15,
+            "price": 275.0
+        },
+        {
+            "name": "Photon engine",
+            "description": "This is an photon engine",
+            "img": "",
+            "power": 30,
+            "price": 500.0
+        },
+        {
+            "name": "Gas engine",
+            "description": "This is a gas engine",
+            "img": "",
+            "power": 20,
+            "price": 300.0
+        },
+        {
+            "name": "Electric engine",
+            "description": "This is an electric engine",
+            "img": "",
+            "power": 25,
+            "price": 400.0
+        },
+        {
+            "name": "Antimatter engine",
+            "description": "This is an antimatter engine",
+            "img": "",
+            "power": 50,
+            "price": 1000.0
+        }
+    ],
+    "armament": [
+        {
+            "name": "Regular turrets",
+            "description": "This is a regular turrets",
+            "img": "",
+            "weight": 5,
+            "price": 100.0
+        },
+        {
+            "name": "Plasma turrets",
+            "description": "This is a plasma turrets",
+            "img": "",
+            "weight": 10,
+            "price": 650.0
+        },
+        {
+            "name": "Railgun",
+            "description": "This is a railgun",
+            "img": "",
+            "weight": 15,
+            "price": 1000.0
+        },
+        {
+            "name": "Laser",
+            "description": "This is a laser",
+            "img": "",
+            "weight": 20,
+            "price": 2000.0
+        },
+        {
+            "name": "Graviton",
+            "description": "This is a graviton",
+            "img": "",
+            "weight": 25,
+            "price": 3000.0
+        },
+        {
+            "name": "Proton",
+            "description": "This is a proton",
+            "img": "",
+            "weight": 30,
+            "price": 4000.0
+        },
+        {
+            "name": "Quantum",
+            "description": "This is a quantum",
+            "img": "",
+            "weight": 35,
+            "price": 5000.0
+        }
+    ]
+}
